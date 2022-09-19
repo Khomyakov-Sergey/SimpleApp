@@ -1,0 +1,8 @@
+package ru.clevertec.simpleapp.model;
+
+import lombok.Data;
+
+@Data
+public class User {
+    private String name;
+}
